@@ -4,15 +4,17 @@
 Visual Studio Professional 2012 has been used to develop the application.
 
 Following resources are used as reference libraries:
-    http://www.libsdl.org/download-2.0.php
-    http://www.libsdl.org/projects/SDL_image/
-    http://www.libsdl.org/projects/SDL_ttf/
+
+    - http://www.libsdl.org/download-2.0.php
+    - http://www.libsdl.org/projects/SDL_image/
+    - http://www.libsdl.org/projects/SDL_ttf/
 
 Following unpacked packages downloaded from the URLs above has been located
 next to top level MidasMiner directory
-    SDL2_image-2.0.0
-    SDL2_ttf-2.0.12
-    SDL2-2.0.1
+
+    - SDL2_image-2.0.0
+    - SDL2_ttf-2.0.12
+    - SDL2-2.0.1
 
 # KNOWN ISSUES & STYLE
 
